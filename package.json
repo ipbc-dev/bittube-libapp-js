@@ -1,11 +1,11 @@
 {
-  "name": "mymonero-libapp-js",
+  "name": "bittube-libapp-js",
   "version": "1.0.0",
   "description": "The JS library containing the JS transpilation of the shared library behind the MyMonero apps",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mymonero/mymonero-libapp-js.git"
+    "url": "git+https://github.com/ipbc-dev/bittube-libapp-js.git"
   },
   "scripts": {
     "format": "find . -name '*.js*' | xargs prettier --write --config ./.prettierrc --config-precedence file-override",
@@ -27,9 +27,9 @@
   "author": "MyMonero",
   "license": "See LICENSE.TXT. Copyright (c) 2014-2019, MyMonero.com. All rights reserved.",
   "bugs": {
-    "url": "https://github.com/mymonero/mymonero-libapp-js/issues"
+    "url": "https://github.com/ipbc-dev/bittube-libapp-js/issues"
   },
-  "homepage": "https://github.com/mymonero/mymonero-libapp-js#readme",
+  "homepage": "https://github.com/ipbc-dev/bittube-libapp-js#readme",
   "dependencies": {},
   "devDependencies": {
     "mocha": "5.2.0"

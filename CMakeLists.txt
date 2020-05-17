@@ -13,7 +13,7 @@ set(MYMONERO_LIBAPP_CPP_SRC "${MYMONERO_LIBAPP_CPP}/src")
 include_directories("${MYMONERO_LIBAPP_CPP_SRC}")
 include_directories("${MYMONERO_LIBAPP_CPP_SRC}/SendFunds/Controllers")
 #
-set(MYMONERO_CORE_CPP "${MYMONERO_LIBAPP_CPP_SRC}/mymonero-core-cpp")
+set(MYMONERO_CORE_CPP "${MYMONERO_LIBAPP_CPP_SRC}/bittube-core-cpp")
 set(MYMONERO_CORE_CPP_SRC "${MYMONERO_CORE_CPP}/src")
 include_directories("${MYMONERO_CORE_CPP_SRC}")
 #
