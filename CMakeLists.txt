@@ -8,7 +8,7 @@ include_directories("build/boost/include") # must exist already - run bin/build-
 #
 include_directories("src")
 #
-set(MYMONERO_LIBAPP_CPP "src/submodules/mymonero-libapp-cpp")
+set(MYMONERO_LIBAPP_CPP "src/submodules/bittube-libapp-cpp")
 set(MYMONERO_LIBAPP_CPP_SRC "${MYMONERO_LIBAPP_CPP}/src")
 include_directories("${MYMONERO_LIBAPP_CPP_SRC}")
 include_directories("${MYMONERO_LIBAPP_CPP_SRC}/SendFunds/Controllers")

@@ -27,7 +27,7 @@
 // THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 const MyMoneroLibAppBridgeClass = require('./MyMoneroLibAppBridgeClass')
-const MyMoneroBridge_utils = require('../mymonero-core-js/monero_utils/MyMoneroBridge_utils')
+const MyMoneroBridge_utils = require('../bittube-core-js/monero_utils/MyMoneroBridge_utils')
 //
 // This function is copied here for now so that the parent directory / path discovery stuff happens from the right directory - in the future it may be worthwhile to generalize it so that it can work from any directory
 module.exports = function(options)

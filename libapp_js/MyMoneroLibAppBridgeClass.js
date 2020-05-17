@@ -26,9 +26,9 @@
 // STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
 // THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
-const MyMoneroCoreBridgeEssentialsClass = require('../mymonero-core-js/monero_utils/MyMoneroCoreBridgeEssentialsClass')
-const MyMoneroBridge_utils = require('../mymonero-core-js/monero_utils/MyMoneroBridge_utils')
-const nettype_utils = require("../mymonero-core-js/cryptonote_utils/nettype");
+const MyMoneroCoreBridgeEssentialsClass = require('../bittube-core-js/monero_utils/MyMoneroCoreBridgeEssentialsClass')
+const MyMoneroBridge_utils = require('../bittube-core-js/monero_utils/MyMoneroBridge_utils')
+const nettype_utils = require("../bittube-core-js/cryptonote_utils/nettype");
 //
 class MyMoneroLibAppBridgeClass extends MyMoneroCoreBridgeEssentialsClass
 {

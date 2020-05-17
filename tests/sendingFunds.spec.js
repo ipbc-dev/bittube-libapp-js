@@ -28,7 +28,7 @@
 
 "use strict";
 
-const nettype_utils = require("../mymonero-core-js/cryptonote_utils/nettype")
+const nettype_utils = require("../bittube-core-js/cryptonote_utils/nettype")
 const assert = require("assert");
 
 class APIClient

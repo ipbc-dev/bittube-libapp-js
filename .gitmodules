@@ -1,6 +1,6 @@
-[submodule "src/submodules/mymonero-libapp-cpp"]
-	path = src/submodules/mymonero-libapp-cpp
-	url = https://github.com/mymonero/mymonero-libapp-cpp
-[submodule "mymonero-core-js"]
-	path = mymonero-core-js
-	url = https://github.com/mymonero/mymonero-core-js
+[submodule "src/submodules/bittube-libapp-cpp"]
+	path = src/submodules/bittube-libapp-cpp
+	url = https://github.com/ipbc-dev/bittube-libapp-cpp
+[submodule "bittube-core-js"]
+	path = bittube-core-js
+	url = https://github.com/ipbc-dev/bittube-core-js
